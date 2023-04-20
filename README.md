@@ -1,6 +1,6 @@
 
-  <link rel="stylesheet" type="text/css" href="styles.css">
-    <p>This is a typewriter effect.</p>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<p>This is a typewriter effect.</p>
 <!--
 **ValentinaCham/ValentinaCham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
