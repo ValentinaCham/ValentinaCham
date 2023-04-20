@@ -7,7 +7,6 @@
     <p>This is a typewriter effect.</p>
 </body>
 </html>
-<p>This is a typewriter effect.</p>
 <!--
 **ValentinaCham/ValentinaCham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
