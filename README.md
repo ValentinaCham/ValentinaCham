@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Valentina+Chambilla;I'm+a+systems+engineer;from+Peru+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Valentina+Chambilla;I'm+a+systems+engineer;from+Peru+%3Aperu%3A" alt="Typing SVG" /></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 
