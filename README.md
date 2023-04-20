@@ -4,7 +4,7 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    
+    <p>This is a typewriter effect.</p>
 </body>
 </html>
 
