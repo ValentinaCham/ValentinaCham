@@ -12,6 +12,8 @@
 
 ## :woman_technologist: About me
 
+My name is Valentina Milagros Chambilla Perca, and I'm a 21-year-old student of Systems Engineering and Electronic Engineering at the National University of Saint Augustine in Arequipa. I'm passionate about web development and enjoy programming. I would like to help other women in programming and learn more about the field of data analysis to improve my skills and become a proficient professional. I am a proactive, dynamic, creative, friendly person, and I know how to maintain motivation to produce great work in a team.
+
 ## ⚡ Proyects
 
 
