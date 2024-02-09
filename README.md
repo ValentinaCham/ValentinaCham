@@ -18,8 +18,8 @@ My name is Valentina Milagros Chambilla Perca, and I'm a 21-year-old student of 
 
 1. **Microsoft Learn Student Ambassador**
    - Empowering others through Microsoft technologies and learning experiences.
-   ![Microsoft Learn Student Ambassador](images/msla-dark.png#gh-dark-mode-only)
-   ![Microsoft Learn Student Ambassador](images/msla-light.png#gh-light-mode-only)
+   ![Microsoft Learn Student Ambassador](images/msla-dark.jpg#gh-dark-mode-only)
+   ![Microsoft Learn Student Ambassador](images/msla-light.jpg#gh-light-mode-only)
 
 2. **Chair of Student Chapter IEEE Computer Society**
    - Active student member of IEEE and the technical society IEEE Computer Society.
