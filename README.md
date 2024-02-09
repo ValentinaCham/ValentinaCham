@@ -14,9 +14,44 @@
 
 My name is Valentina Milagros Chambilla Perca, and I'm a 21-year-old student of Systems Engineering and Electronic Engineering at the National University of Saint Augustine in Arequipa. I'm passionate about web development and enjoy programming. I would like to help other women in programming and learn more about the field of data analysis to improve my skills and become a proficient professional. I am a proactive, dynamic, creative, friendly person, and I know how to maintain motivation to produce great work in a team.
 
-## ⚡ Proyects
+## 🌐 Volunteering
 
-Portafolio: https://valentinachps.com/
+1. **Microsoft Learn Student Ambassador**
+   - Empowering others through Microsoft technologies and learning experiences.
+   ![Microsoft Learn Student Ambassador](images/msla.jpg)
+
+2. **Chair of Student Chapter IEEE Computer Society**
+   - Active student member of IEEE and the technical society IEEE Computer Society.
+   - Serving as the Chair of the Student Chapter at Universidad Nacional de San Agustín de Arequipa.
+   ![IEEE Computer Society Chair](images/ieee.jpg)
+
+3. **Student Member, ACM Student Chapter**
+   - Contributing to the Association for Computing Machinery (ACM) Student Chapter at Universidad Nacional de San Agustín de Arequipa.
+   ![ACM Student Chapter](images/acm.jpg)
+
+4. **Volunteer, Django Girls**
+   - Supporting and mentoring individuals interested in web development with Django.
+   ![Django Girls Volunteer](images/django-girls.jpg)
+
+## 💻 Technologies I Know
+
+- **Flutter:**
+  - For building cross-platform applications.
+  - Programming language: Dart.
+
+- **Flet:**
+  - A framework based on Flutter.
+  - Programming language: Python.
+
+- **Frontend Frameworks:**
+  - Angular for frontend development.
+  - Utilizing TypeScript, HTML5, CSS3, and JavaScript.
+
+- **Backend Framework:**
+  - NodeJS and Django.
+
+## 😄 Portfolio
+https://valentinachps.com/
 
 <!--
 **ValentinaCham/ValentinaCham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
