@@ -18,20 +18,21 @@ My name is Valentina Milagros Chambilla Perca, and I'm a 21-year-old student of 
 
 1. **Microsoft Learn Student Ambassador**
    - Empowering others through Microsoft technologies and learning experiences.
-   ![Microsoft Learn Student Ambassador](images/msla.jpg)
+   ![Microsoft Learn Student Ambassador](images/msla-dark.png#gh-dark-mode-only)
+   ![Microsoft Learn Student Ambassador](images/msla-light.png#gh-light-mode-only)
 
 2. **Chair of Student Chapter IEEE Computer Society**
    - Active student member of IEEE and the technical society IEEE Computer Society.
    - Serving as the Chair of the Student Chapter at Universidad Nacional de San Agustín de Arequipa.
-   ![IEEE Computer Society Chair](images/ieee.jpg)
+   ![IEEE Computer Society Chair](images/ieee.png)
 
 3. **Student Member, ACM Student Chapter**
    - Contributing to the Association for Computing Machinery (ACM) Student Chapter at Universidad Nacional de San Agustín de Arequipa.
-   ![ACM Student Chapter](images/acm.jpg)
+   ![ACM Student Chapter](images/acm.png)
 
 4. **Volunteer, Django Girls**
    - Supporting and mentoring individuals interested in web development with Django.
-   ![Django Girls Volunteer](images/django-girls.jpg)
+   ![Django Girls Volunteer](images/django-girls.png)
 
 ## 💻 Technologies I Know
 
